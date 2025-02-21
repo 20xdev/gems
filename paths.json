@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/20xdev/:/",
-    "/content/20xdev/configuration:/.helix/config.json",
-    "/content/20xdev/metadata:/metadata.json"
+    "/content/20xdevsite/:/",
+    "/content/20xdevsite/configuration:/.helix/config.json",
+    "/content/20xdevsite/metadata:/metadata.json"
   ]
 }
