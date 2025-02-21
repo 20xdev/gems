@@ -3,5 +3,8 @@
     "/content/20xdevsite/:/",
     "/content/20xdevsite/configuration:/.helix/config.json",
     "/content/20xdevsite/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/20xdevsite/"
   ]
 }
